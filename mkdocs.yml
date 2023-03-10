@@ -3,9 +3,6 @@ site_name: obsidian-mkdocs template
 theme:
     name: 'material'
     palette:
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: pink
       accent: blue
