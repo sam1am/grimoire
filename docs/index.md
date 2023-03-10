@@ -1,11 +1,9 @@
-# Obsidian Notes
+# o hai!
 
-Publish your public notes with MkDocs
+I haz site. Borwzr I am in u.
 
-## Hello World!
+## Browzr i am in u!
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
+Du poop
 
 The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
