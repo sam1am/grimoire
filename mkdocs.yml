@@ -1,29 +1,19 @@
-site_name: obsidian-mkdocs template
-
 theme:
-    name: 'material'
-    palette:
+  name: 'material'
+  palette:
     scheme: 'slate'
     primary: 'pink'
     accent: 'blue'
-    toggle:
-      icon: 'material/toggle-switch'
-      name: 'Switch to light mode'
-    dark:
-      scheme: 'slate'
-      primary: 'pink'
-      accent: 'blue'
-
+  dark:
+    scheme: 'slate'
+    primary: 'pink'
+    accent: 'blue'
 
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -32,7 +22,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-
   - toc:
       permalink: true
 
