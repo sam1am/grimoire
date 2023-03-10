@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "36fdff4c3b66c8e2",
+        "id": "e19e8cf229c4b403",
         "type": "tabs",
         "children": [
           {
-            "id": "0009ff778a7aa633",
+            "id": "9193d074f8ed5ed3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -143,9 +135,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "0009ff778a7aa633",
-  "lastOpenFiles": []
+  "active": "9193d074f8ed5ed3",
+  "lastOpenFiles": [
+    "index.md",
+    "Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
+    "Media/Images/Generated/896d15c8-48a8-4f80-847c-e3073732790d.jpg",
+    "Media/Images/Generated/fe972bf4-5b70-4ade-be5f-066afba8c372.jpg",
+    "Media/Images/Generated/88f9dba6-2efd-449d-8fff-768bc3dececf.jpg",
+    "Media/Images/Generated/70e4385c-5bd5-46f0-bba9-0acf59718d35.jpg",
+    "Media/Images/Generated/35b176fa-1c05-4ec5-bff4-d04f7fe04bd5.jpg",
+    "Media/Images/Generated/9a31a651-d40f-4eb9-b104-d88aff529e5f.jpg",
+    "Media/Images/Generated/7f968ff8-5c22-4d85-8113-c964215455cb.jpeg",
+    "Media/Images/Generated/7ada1cca-6477-446a-94c5-46348959bec5.jpg",
+    "Media/Images/Generated/6fd54e85-b450-4419-8002-f9389f8050a8.jpg",
+    "Timberthrax_Unimatrix_42_sci_fi_art_alien_space_station_tng_oil_dbfa92a0-13af-4a6b-a94a-7336238480e5_upscayl_4x_ultramix_balanced.png.md",
+    "Untitled.md",
+    "Tools/Images & Photo.md",
+    "Media/Images/Generated/7f968ff8-5c22-4d85-8113-c964215455cbpng",
+    "Media/Images/Generated/fe972bf4-5b70-4ade-be5f-066afba8c372jpg",
+    "Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018jpg",
+    "Media/Images/Generated/896d15c8-48a8-4f80-847c-e3073732790djpg",
+    "Media/Images/Generated/35b176fa-1c05-4ec5-bff4-d04f7fe04bd5png",
+    "Media/Images/Generated/6fd54e85-b450-4419-8002-f9389f8050a8png",
+    "Media/Images/Generated/70e4385c-5bd5-46f0-bba9-0acf59718d35jpg",
+    "Media/Images/Generated/9a31a651-d40f-4eb9-b104-d88aff529e5fjpg",
+    "Media/Images/Generated/7ada1cca-6477-446a-94c5-46348959bec5jpg",
+    "Media/Images/Generated/88f9dba6-2efd-449d-8fff-768bc3dececfjpg",
+    "AI Experiments/Untitled.md"
+  ]
 }

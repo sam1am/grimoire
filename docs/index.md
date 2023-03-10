@@ -1,9 +1,7 @@
-# o hai!
+# Unimatrix 42
 
-I haz site. Borwzr I am in u.
+![[23305349-4c93-4fa0-9eaf-993f804c0018.jpg]]
+
+I haz site. Browzr I am in u.
 
 ## Browzr i am in u!
-
-Du poop
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
