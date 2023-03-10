@@ -1,13 +1,7 @@
 theme:
-  name: 'material'
   palette:
-    scheme: 'slate'
-    primary: 'pink'
-    accent: 'blue'
-  dark:
-    scheme: 'slate'
-    primary: 'pink'
-    accent: 'blue'
+    scheme: slate
+    primary: amber
 
 # Extensions
 markdown_extensions:
