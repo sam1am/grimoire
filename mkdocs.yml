@@ -3,12 +3,17 @@ site_name: obsidian-mkdocs template
 theme:
     name: 'material'
     palette:
-      scheme: slate
-      primary: pink
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    scheme: 'slate'
+    primary: 'pink'
+    accent: 'blue'
+    toggle:
+      icon: 'material/toggle-switch'
+      name: 'Switch to light mode'
+    dark:
+      scheme: 'slate'
+      primary: 'pink'
+      accent: 'blue'
+
 
 # Extensions
 markdown_extensions:
