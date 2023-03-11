@@ -62,9 +62,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa18b421cd04c426",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art/Unimatrix 42 Concept Art.md",
+                "file": "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art/Unimatrix 42 Concept Art.md",
+                "file": "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art/Unimatrix 42 Concept Art.md"
+                "file": "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg"
               }
             }
           }
@@ -193,12 +203,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "62ad4d70c2ef6981",
+  "active": "aa18b421cd04c426",
   "lastOpenFiles": [
+    "Philosophy/Can AI Boil Out Bias.md",
+    "Art/Unimatrix 42 Concept Art.md",
     "index.md",
     "Meta/Media/Images/Generated/4d270ccf-3a43-4d6b-ac4f-05cc4852b488.jpg",
     "Meta/Media/Images/Generated/6fd54e85-b450-4419-8002-f9389f8050a8.jpg",
-    "Art/Unimatrix 42 Concept Art.md",
     "Philosophy/Is The Singularity Iminent.md",
     "Tools/Visual ChatGPT.md",
     "Art",
