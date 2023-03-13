@@ -1,0 +1,1 @@
+I am so far loving the fluidity of Arc browser, and the flexibility of being bale to use columns of web pages within the browser.
