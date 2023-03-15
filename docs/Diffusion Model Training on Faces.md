@@ -21,6 +21,6 @@ According to Jame Cunliffe’s [video](https://www.youtube.com/watch?v=P1dfwViV
 
 The training process expects the images you provide are of dimension 512x512. If your images are of a different size, you can use [Birme](https://www.birme.net/?target_width=512&target_height=512) to adjust and resize the images so they match the proper requirements for the neural network to read.
 
-### Training Prompt
+### Training Promp
 
 A portrait of a man, trending on artstation, greg rutkowski, 4k
