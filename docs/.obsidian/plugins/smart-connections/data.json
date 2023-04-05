@@ -1,0 +1,17 @@
+{
+  "api_key": "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",
+  "file_exclusions": "",
+  "folder_exclusions": "",
+  "header_exclusions": "",
+  "path_only": "",
+  "show_full_path": false,
+  "expanded_view": true,
+  "log_render": false,
+  "log_render_files": false,
+  "skip_sections": false,
+  "smart_chat_model": "gpt-4",
+  "results_count": 30,
+  "view_open": true,
+  "version": "1.2.8",
+  "failed_files": []
+}

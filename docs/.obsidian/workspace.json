@@ -13,150 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiments/Self-Writing App.md",
+                "file": "Experiments/GMail Assist Powred By GPT3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1299abe7e5bb3eb6",
+            "id": "82e1cf0e375252d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conversation with Bing Mar 24 2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2532bb0db537ebe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Intelligence/Language Is Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d033c7649f80a8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Language/NeoSpeak.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f883ca02f3df737",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "e246eb62f4d55683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/Visual ChatGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0b3778886f2fd3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Art/Unimatrix 42 Concept Art.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c92481d6e4b4534b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Art/Unimatrix 42 Concept Art.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3039c98748246220",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "359dfd117c79592b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6ed2afeb0f26d63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89ce91112405e944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06b57c47e52696c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac86bc34c8aa7f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Frameworks/Fisher and Urys Getting to Yes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "325d20e71ff474ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "44ac7e3e34b8137f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,17 +167,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "f79199ad8fed6193",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,53 +197,53 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "62ad4d70c2ef6981",
+  "active": "8f883ca02f3df737",
   "lastOpenFiles": [
-    "Experiments/Productive Discussions/Frameworks/Fisher and Urys Getting to Yes.md",
+    "Experiments/Language/InfoLingo.md",
+    "Experiments/Language/NeoSpeak.md",
+    "Experiments/Intelligence/Language Is Intelligence.md",
+    "Experiments/Language",
+    "Conversation with Bing Mar 24 2023.md",
+    "Experiments/GMail Assist Powred By GPT3.md",
+    "Experiments/Intelligence",
+    "Experiments/Self-Writing App.md",
+    "index.md",
+    "Meta/Media/Pasted image 20230310161307.jpg",
+    "Meta/Media/Images/Pasted image 20230310161307.jpg",
     "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
-    "Experiments/Productive Discussions/Other Info",
-    "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
     "Experiments/Productive Discussions/Frameworks/The Socratic Method.md",
     "Experiments/Productive Discussions/Frameworks/The Six Thinking Hats.md",
-    "Experiments/Productive Discussions/Frameworks/Active Listening.md",
-    "Experiments/Productive Discussions/Frameworks/Nonviolent Communication (NVC).md",
     "Experiments/Productive Discussions/Frameworks/The Ladder of Inference.md",
-    "obsidian.css.md",
+    "Experiments/Productive Discussions/Frameworks/Nonviolent Communication (NVC).md",
+    "Experiments/Productive Discussions/Frameworks/Fisher and Urys Getting to Yes.md",
+    "Experiments/Productive Discussions/Frameworks/Active Listening.md",
+    "Experiments/Productive Discussions/Other Info",
+    "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
     "Experiments/Productive Discussions/Frameworks",
-    "Experiments/Self-Writing App.md",
     "Experiments/Productive Discussions",
-    "Meta/demo_short.gif",
     "Experiments/Fiction/Astral Syntax/Untitled.md",
-    "Experiments/Fiction/Astral Syntax/Astral Syntax.md",
     "Experiments/Fiction/Astral Syntax/Truth's Edge - Game Concept.md",
     "Experiments/Fiction/Astral Syntax/The Astral Codex.md",
+    "Experiments/Fiction/Astral Syntax/Astral Syntax.md",
     "Experiments/Fiction/Astral Syntax",
     "Experiments/Fiction",
-    "demo_short.gif",
-    "Meta/Media/Images/Pasted image 20230310161307.jpg",
     "Experiments/Diffusion Model Training on Faces.md",
-    "Meta/Media/Pasted image 20230310161307.jpg",
-    "Meta/Media/demo_short.gif",
-    "Tools/Images & Photo.md",
-    "Tools/Visual ChatGPT.md",
-    "Philosophy/Can AI Boil Out Bias.md",
-    "Philosophy/Is The Singularity Iminent.md",
-    "Tools/Arc Browser.md",
-    "Experiments/Diffusion Model Training on Faces.md",
-    "Meta/hai.md",
-    "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
     "Experiments/Art/Unimatrix 42 Concept Art.md",
-    "index.md",
-    "Meta/Media/Images/Generated/4d270ccf-3a43-4d6b-ac4f-05cc4852b488.jpg",
-    "Meta/Media/Images/Generated/6fd54e85-b450-4419-8002-f9389f8050a8.jpg",
     "Experiments/Art",
-    "Meta",
-    "Philosophy",
-    "Experiments",
-    "Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
-    "Media/Images/Generated/896d15c8-48a8-4f80-847c-e3073732790d.jpg",
-    "Timberthrax_Unimatrix_42_sci_fi_art_alien_space_station_tng_oil_dbfa92a0-13af-4a6b-a94a-7336238480e5_upscayl_4x_ultramix_balanced.png.md",
-    "Media/Images/Generated/7f968ff8-5c22-4d85-8113-c964215455cbpng",
-    "AI Experiments/Untitled.md"
+    "Pasted image 20230310161307.jpg",
+    "Diffusion Model Training on Faces.md",
+    "Fiction/Astral Syntax/Truth's Edge - Game Concept.md",
+    "Fiction/Astral Syntax/Untitled.md",
+    "Untitled",
+    "Fiction/Astral Syntax/The Astral Codex.md",
+    "Fiction/Astral Syntax/Astral Syntax.md",
+    "Meta/demo_short.gif",
+    "Fiction/Astral Syntax",
+    "Meta/Media/Images/Generated/70e4385c-5bd5-46f0-bba9-0acf59718d35.jpg",
+    "Meta/Media/Images/Generated/88f9dba6-2efd-449d-8fff-768bc3dececf.jpg",
+    "Meta/Media/Images/Generated/23305349-4c93-4fa0-9eaf-993f804c0018.jpg",
+    "Meta/Media/Images/Generated/fe972bf4-5b70-4ade-be5f-066afba8c372.jpg",
+    "Meta/Media/Images/Generated/896d15c8-48a8-4f80-847c-e3073732790d.jpg",
+    "Meta/Media/Images/Generated/35b176fa-1c05-4ec5-bff4-d04f7fe04bd5.jpg"
   ]
 }
