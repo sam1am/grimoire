@@ -1,0 +1,9 @@
+
+Experiments/Language/InfoLingo.md
+Experiments/Language/InfoLingo.md#Additional Efficiency Techniques
+Experiments/Language/InfoLingo.md#Alphabet and Symbols
+Experiments/Language/InfoLingo.md#Example
+Experiments/Language/InfoLingo.md#Grammar
+Experiments/Language/InfoLingo.md#Overall Savings Report
+Experiments/Language/InfoLingo.md#Phonetics and Pronunciation
+Experiments/Language/InfoLingo.md#Vocabulary

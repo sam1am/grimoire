@@ -59,12 +59,52 @@
             "id": "8f883ca02f3df737",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Language/InfoLingo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66881823f2c8ab84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Language/PreciLingo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9276868c16fb88f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Language/Natural Language For Machines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e43e19e4bbe2fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -130,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md"
+              }
             }
           },
           {
@@ -197,8 +241,11 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "8f883ca02f3df737",
+  "active": "3e43e19e4bbe2fff",
   "lastOpenFiles": [
+    "Experiments/Language/Natural Language For Machines.md",
+    "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
+    "Experiments/Language/PreciLingo.md",
     "Experiments/Language/InfoLingo.md",
     "Experiments/Language/NeoSpeak.md",
     "Experiments/Intelligence/Language Is Intelligence.md",
@@ -233,10 +280,7 @@
     "Pasted image 20230310161307.jpg",
     "Diffusion Model Training on Faces.md",
     "Fiction/Astral Syntax/Truth's Edge - Game Concept.md",
-    "Fiction/Astral Syntax/Untitled.md",
     "Untitled",
-    "Fiction/Astral Syntax/The Astral Codex.md",
-    "Fiction/Astral Syntax/Astral Syntax.md",
     "Meta/demo_short.gif",
     "Fiction/Astral Syntax",
     "Meta/Media/Images/Generated/70e4385c-5bd5-46f0-bba9-0acf59718d35.jpg",

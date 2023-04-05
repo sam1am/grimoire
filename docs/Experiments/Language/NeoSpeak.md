@@ -86,3 +86,18 @@ Reduction:
 -   Character count (including spaces): 263 characters, approximately 40.09% reduction
 
 By using the modified NeoSpeak, the text is reduced by approximately 35.07% in word count and 40.09% in character count (including spaces).
+
+
+---
+
+```chart
+type: bar
+labels: ["Word Count", "Character Count (incl. spaces)"]
+series:
+    - title: "Plain English"
+      data: [78, 445]
+    - title: "NeoSpeak"
+      data: [54, 281]
+width: 80%
+beginAtZero: true
+```
