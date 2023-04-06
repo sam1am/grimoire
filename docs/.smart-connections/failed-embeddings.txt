@@ -1,4 +1,5 @@
 
+Experiments/Art/Intelligence.md
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md#Abstract:
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md#Conclusion:
@@ -25,3 +26,4 @@ Experiments/Language/InfoLingo.md#Grammar
 Experiments/Language/InfoLingo.md#Overall Savings Report
 Experiments/Language/InfoLingo.md#Phonetics and Pronunciation
 Experiments/Language/InfoLingo.md#Vocabulary
+index.md
