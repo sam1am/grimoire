@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,12 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md"
               }
             }
           },
           {
-            "id": "d11ccfaed5932b9e",
+            "id": "0ccaa440693c5c37",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -255,6 +255,9 @@
   },
   "active": "d5d59d6df657450c",
   "lastOpenFiles": [
+    "Experiments/Language/Natural Language For Machines.md",
+    "Experiments/Language/PreciLingo.md",
+    "index.md",
     "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
     "Meta/Media/Pasted image 20230405184726.png",
     "Meta/Media/Pasted image 20230405190358.png",
@@ -266,11 +269,8 @@
     "Meta/Media/Pasted image 20230405184757.png",
     "Meta/Media/Pasted image 20230405184742.png",
     "Meta/Media/Pasted image 20230405184734.png",
-    "Experiments/Language/PreciLingo.md",
-    "index.md",
     "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
     "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
-    "Experiments/Language/Natural Language For Machines.md",
     "Experiments/Language/InfoLingo.md",
     "Experiments/Language/NeoSpeak.md",
     "Experiments/Language",
