@@ -1,5 +1,10 @@
 
 Experiments/Art/Intelligence.md
+Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md
+Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md
+Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md#Neural Networks and the Conscious Being
+Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md#The Emergence of LLMs and Surprising Intelligence
+Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md#The Inherent Intelligence of Language
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md#Abstract:
 Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md#Conclusion:
@@ -26,4 +31,26 @@ Experiments/Language/InfoLingo.md#Grammar
 Experiments/Language/InfoLingo.md#Overall Savings Report
 Experiments/Language/InfoLingo.md#Phonetics and Pronunciation
 Experiments/Language/InfoLingo.md#Vocabulary
+Experiments/Language/Natural Language For Machines.md
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#1. InfoLingo
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#1. InfoLingo#Key Features:
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#2. NeoSpeak
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#2. NeoSpeak#Key Features:
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#3. PreciLingo
+Experiments/Language/Natural Language For Machines.md#Overview of the Three Languages#3. PreciLingo#Key Features:
+Experiments/Language/NeoSpeak.md
+Experiments/Language/NeoSpeak.md#Conclusion
+Experiments/Language/NeoSpeak.md#Example
+Experiments/Language/NeoSpeak.md#Grammar:
+Experiments/Language/NeoSpeak.md#Phonetics and Pronunciation:
+Experiments/Language/NeoSpeak.md#Sample NeoSpeak sentences:
+Experiments/Language/NeoSpeak.md#Vocabulary:
+Experiments/Language/PreciLingo.md
+Experiments/Language/PreciLingo.md#Additional Efficiency Techniques
+Experiments/Language/PreciLingo.md#Alphabet and Symbols
+Experiments/Language/PreciLingo.md#Example
+Experiments/Language/PreciLingo.md#Grammar
+Experiments/Language/PreciLingo.md#Overall Savings Report
+Experiments/Language/PreciLingo.md#Phonetics and Pronunciation
+Experiments/Language/PreciLingo.md#Vocabulary
 index.md

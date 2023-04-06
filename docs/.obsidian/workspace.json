@@ -13,110 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiments/GMail Assist Powred By GPT3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82e1cf0e375252d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2532bb0db537ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d033c7649f80a8a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Language/NeoSpeak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f883ca02f3df737",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Language/InfoLingo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66881823f2c8ab84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Language/PreciLingo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9276868c16fb88f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Language/Natural Language For Machines.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e43e19e4bbe2fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5d59d6df657450c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,27 +118,9 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "65e257714076c989",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md"
-              }
-            }
-          },
-          {
-            "id": "0ccaa440693c5c37",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -253,12 +138,16 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "d5d59d6df657450c",
+  "active": "9193d074f8ed5ed3",
   "lastOpenFiles": [
-    "Experiments/Language/Natural Language For Machines.md",
-    "Experiments/Language/PreciLingo.md",
-    "index.md",
+    "Experiments/GMail Assist Powred By GPT3.md",
+    "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
     "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
+    "Experiments/Language/NeoSpeak.md",
+    "Experiments/Language/InfoLingo.md",
+    "Experiments/Language/PreciLingo.md",
+    "Experiments/Language/Natural Language For Machines.md",
+    "index.md",
     "Meta/Media/Pasted image 20230405184726.png",
     "Meta/Media/Pasted image 20230405190358.png",
     "Meta/Media/Pasted image 20230405185502.png",
@@ -269,12 +158,8 @@
     "Meta/Media/Pasted image 20230405184757.png",
     "Meta/Media/Pasted image 20230405184742.png",
     "Meta/Media/Pasted image 20230405184734.png",
-    "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
     "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
-    "Experiments/Language/InfoLingo.md",
-    "Experiments/Language/NeoSpeak.md",
     "Experiments/Language",
-    "Experiments/GMail Assist Powred By GPT3.md",
     "Experiments/Intelligence",
     "Experiments/Self-Writing App.md",
     "Meta/Media/Pasted image 20230310161307.jpg",
