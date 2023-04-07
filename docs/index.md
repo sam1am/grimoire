@@ -3,7 +3,7 @@
 
 #### RECENT UPDATES
 ---
-==2023-0407==
+==2023-04-07==
 
 [[Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence]] (WIP)
 
