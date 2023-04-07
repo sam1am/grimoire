@@ -6,6 +6,10 @@ icon: material/Neurology
 
 #### RECENT UPDATES
 ---
+==2023-0406==
+
+
+
 ==2023-04-05==
 
 It's not just programming syntax that no longer matters. The syntax of knowledge and intelligence are now available to everybody through a [[universal translator]]. 

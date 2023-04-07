@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49e0d33f2756683e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +151,28 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "9193d074f8ed5ed3",
+  "active": "62ad4d70c2ef6981",
   "lastOpenFiles": [
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Outline.md",
+    "Experiments/Reason/On Mormonism/Analysis and Evaluation",
+    "Experiments/Reason/On Mormonism/Arguments Against",
+    "Experiments/Reason/On Mormonism/Arguments For",
+    "Experiments/Reason/On Mormonism/Methodology",
+    "Experiments/Reason/On Mormonism/Background",
     "Experiments/GMail Assist Powred By GPT3.md",
+    "Experiments/CouplesTherapGPT.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence",
+    "Experiments/Reason",
+    "index.md",
     "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
     "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
     "Experiments/Language/NeoSpeak.md",
     "Experiments/Language/InfoLingo.md",
     "Experiments/Language/PreciLingo.md",
     "Experiments/Language/Natural Language For Machines.md",
-    "index.md",
     "Meta/Media/Pasted image 20230405184726.png",
     "Meta/Media/Pasted image 20230405190358.png",
     "Meta/Media/Pasted image 20230405185502.png",
@@ -172,18 +197,7 @@
     "Experiments/Productive Discussions/Frameworks/Active Listening.md",
     "Experiments/Productive Discussions/Other Info",
     "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-    "Experiments/Productive Discussions/Frameworks",
-    "Experiments/Productive Discussions",
     "Experiments/Fiction/Astral Syntax/Untitled.md",
-    "Experiments/Fiction/Astral Syntax/Truth's Edge - Game Concept.md",
-    "Experiments/Fiction/Astral Syntax/The Astral Codex.md",
-    "Experiments/Fiction/Astral Syntax/Astral Syntax.md",
-    "Experiments/Fiction/Astral Syntax",
-    "Experiments/Fiction",
-    "Experiments/Diffusion Model Training on Faces.md",
-    "Experiments/Art/Unimatrix 42 Concept Art.md",
-    "Experiments/Art",
-    "Untitled",
-    "Fiction/Astral Syntax"
+    "Experiments/Fiction/Astral Syntax/Truth's Edge - Game Concept.md"
   ]
 }

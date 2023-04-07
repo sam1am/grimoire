@@ -1,6 +1,8 @@
 
 Experiments/Art/Intelligence.md
+Experiments/CouplesTherapGPT.md
 Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md
+Experiments/GMail Assist Powred By GPT3.md
 Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md
 Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md#Neural Networks and the Conscious Being
 Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md#The Emergence of LLMs and Surprising Intelligence
@@ -53,4 +55,26 @@ Experiments/Language/PreciLingo.md#Grammar
 Experiments/Language/PreciLingo.md#Overall Savings Report
 Experiments/Language/PreciLingo.md#Phonetics and Pronunciation
 Experiments/Language/PreciLingo.md#Vocabulary
+Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md
+Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md#Introduction
+Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md#Introduction#Outline
+Experiments/Reason/On Mormonism/Outline.md
+Experiments/Reason/On Mormonism/Scoring Arguments For And Against.md
+Experiments/Reason/On Mormonism/Scoring Arguments For And Against.md#Against Mormon side
+Experiments/Reason/On Mormonism/Scoring Arguments For And Against.md#Mormon side
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Example
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Machine Summary
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 1: Assign weights to each scoring category
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 2: Invert scores with negative relationships
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 3: Calculate the weighted average
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 4: Normalize the final scores
+Experiments/Reason/On Mormonism/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 5: Use the normalized final scores in Bayes' theorem
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Machine Summary
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 1: Assign weights to each scoring category
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 2: Invert scores with negative relationships
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 3: Calculate the weighted average
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 4: Normalize the final scores
+Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 5: Use the normalized final scores in Bayes' theorem
 index.md
