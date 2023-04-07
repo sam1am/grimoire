@@ -1,14 +1,11 @@
----
-icon: material/Neurology
----
 # Unimatrix 42
 ![[Pasted image 20230405185225.png]]
 
 #### RECENT UPDATES
 ---
-==2023-0406==
+==2023-0407==
 
-
+[[Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence]] (WIP)
 
 ==2023-04-05==
 

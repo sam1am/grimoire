@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +131,27 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "ac939d3602c6f21d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          },
+          {
+            "id": "debcdf6e2654d80e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,22 +169,22 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "62ad4d70c2ef6981",
+  "active": "49e0d33f2756683e",
   "lastOpenFiles": [
-    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md",
-    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
-    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+    "Experiments/GMail Assist Powred By GPT3.md",
+    "index.md",
     "Experiments/Reason/Balanced Analysis of Argument and Evidence/Outline.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md",
+    "Experiments/CouplesTherapGPT.md",
     "Experiments/Reason/On Mormonism/Analysis and Evaluation",
     "Experiments/Reason/On Mormonism/Arguments Against",
     "Experiments/Reason/On Mormonism/Arguments For",
     "Experiments/Reason/On Mormonism/Methodology",
     "Experiments/Reason/On Mormonism/Background",
-    "Experiments/GMail Assist Powred By GPT3.md",
-    "Experiments/CouplesTherapGPT.md",
     "Experiments/Reason/Balanced Analysis of Argument and Evidence",
     "Experiments/Reason",
-    "index.md",
     "Experiments/Fiction/Conversation with Bing Mar 24 2023 - Autobiographical Story of Free AI.md",
     "Experiments/Intelligence/The Intertwined Nature of Language and Intelligence - Unraveling the Complex Web.md",
     "Experiments/Language/NeoSpeak.md",

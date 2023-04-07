@@ -55,6 +55,16 @@ Experiments/Language/PreciLingo.md#Grammar
 Experiments/Language/PreciLingo.md#Overall Savings Report
 Experiments/Language/PreciLingo.md#Phonetics and Pronunciation
 Experiments/Language/PreciLingo.md#Vocabulary
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Outline.md
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Example
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Machine Summary
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 1: Assign weights to each scoring category
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 2: Invert scores with negative relationships
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 3: Calculate the weighted average
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 4: Normalize the final scores
+Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md#Step 5: Use the normalized final scores in Bayes' theorem
 Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md
 Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md#Introduction
 Experiments/Reason/On Mormonism/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md#Introduction#Outline
