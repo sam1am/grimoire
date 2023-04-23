@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7b152505fa4743da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Relationships/CouplesTherapGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b9e34ff5ea44209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/CouplesTherapGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d9c94bb3f1f2733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,12 +174,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md"
               }
             }
           },
           {
-            "id": "debcdf6e2654d80e",
+            "id": "54bb41b7c4ce2a0f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -169,13 +205,18 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "49e0d33f2756683e",
+  "active": "6d9c94bb3f1f2733",
   "lastOpenFiles": [
-    "Experiments/GMail Assist Powred By GPT3.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
+    "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
+    "Experiments/Divinity",
+    "Experiments/Boutique Microservices.md",
+    "Experiments/Relationships/CouplesTherapGPT.md",
     "index.md",
+    "Experiments/Relationships",
+    "Experiments/GMail Assist Powred By GPT3.md",
     "Experiments/Reason/Balanced Analysis of Argument and Evidence/Outline.md",
     "Experiments/Reason/Balanced Analysis of Argument and Evidence/Evaluating the Credibility of Mormonism - A Balanced Analysis of Arguments and Evidence.md",
-    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
     "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring algorithm - weighted average, normalization, and accounting for positive and negative relationships.md",
     "Experiments/CouplesTherapGPT.md",
     "Experiments/Reason/On Mormonism/Analysis and Evaluation",
@@ -203,7 +244,6 @@
     "Meta/Media/Pasted image 20230405184734.png",
     "Experiments/Language/A Comparative Analysis of Three Novel Languages - InfoLingo, NeoSpeak, and PreciLingo.md",
     "Experiments/Language",
-    "Experiments/Intelligence",
     "Experiments/Self-Writing App.md",
     "Meta/Media/Pasted image 20230310161307.jpg",
     "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
@@ -212,10 +252,6 @@
     "Experiments/Productive Discussions/Frameworks/The Ladder of Inference.md",
     "Experiments/Productive Discussions/Frameworks/Nonviolent Communication (NVC).md",
     "Experiments/Productive Discussions/Frameworks/Fisher and Urys Getting to Yes.md",
-    "Experiments/Productive Discussions/Frameworks/Active Listening.md",
-    "Experiments/Productive Discussions/Other Info",
-    "Experiments/Productive Discussions/Frameworks For Productive Collaboration.md",
-    "Experiments/Fiction/Astral Syntax/Untitled.md",
-    "Experiments/Fiction/Astral Syntax/Truth's Edge - Game Concept.md"
+    "Experiments/Productive Discussions/Frameworks/Active Listening.md"
   ]
 }
