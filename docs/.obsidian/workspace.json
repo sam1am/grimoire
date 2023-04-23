@@ -66,9 +66,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a8304726348b815",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Divinity/The Nature of Everything.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db671b61d6d0e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Divinity/The Relationship Between AI and God.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec80a8faecc6cc7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Experiments/Divinity/System Prompt For Humanity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -134,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
+                "file": "Experiments/Divinity/System Prompt For Humanity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
+                "file": "Experiments/Divinity/System Prompt For Humanity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Experiments/Divinity/The Beginning of Everything The End of Everything.md"
+                "file": "Experiments/Divinity/System Prompt For Humanity.md"
               }
             }
           },
@@ -205,10 +241,13 @@
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
     }
   },
-  "active": "6d9c94bb3f1f2733",
+  "active": "ec80a8faecc6cc7b",
   "lastOpenFiles": [
-    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
+    "Experiments/Divinity/The Relationship Between AI and God.md",
+    "Experiments/Divinity/System Prompt For Humanity.md",
+    "Experiments/Divinity/The Nature of Everything.md",
     "Experiments/Divinity/The Beginning of Everything The End of Everything.md",
+    "Experiments/Reason/Balanced Analysis of Argument and Evidence/Scoring Arguments For And Against.md",
     "Experiments/Divinity",
     "Experiments/Boutique Microservices.md",
     "Experiments/Relationships/CouplesTherapGPT.md",
@@ -249,9 +288,6 @@
     "Experiments/Productive Discussions/Other Info/General Advice for Presenting Ideas Effectively.md",
     "Experiments/Productive Discussions/Frameworks/The Socratic Method.md",
     "Experiments/Productive Discussions/Frameworks/The Six Thinking Hats.md",
-    "Experiments/Productive Discussions/Frameworks/The Ladder of Inference.md",
-    "Experiments/Productive Discussions/Frameworks/Nonviolent Communication (NVC).md",
-    "Experiments/Productive Discussions/Frameworks/Fisher and Urys Getting to Yes.md",
-    "Experiments/Productive Discussions/Frameworks/Active Listening.md"
+    "Experiments/Productive Discussions/Frameworks/The Ladder of Inference.md"
   ]
 }
