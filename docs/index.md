@@ -3,7 +3,7 @@
 
 #### RECENT UPDATES
 ---
-==2024-05-21== Added [[Web to Markdown Bookmarklet]]
+==2024-05-21== Added [[Web to Markdown Bookmarklets]]
 
 ==2023-04-05==
 

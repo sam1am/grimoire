@@ -1,0 +1,22 @@
+# Web To Markdown
+
+Dumping the current page to markdown could be pretty useful, couldn't it? 
+
+Here's a magic [[bookmarklet]] for your bookmarks bar: 
+
+```
+javascript:(function(){  var currentURL = window.location.href;  var newURL = "https://r.jina.ai/" + currentURL;  window.location.href = newURL;})();
+```
+
+Drag the link below to your bookmarks bar:
+[Jina-Chop](javascript:(function(){  var currentURL = window.location.href;  var newURL = "https://r.jina.ai/" + currentURL;  window.location.href = newURL;})();)
+
+# Web Form To Form IDs
+
+Get the form elements from a page. 
+
+```
+javascript:(function() { var forms = document.getElementsByTagName('form'); var markdownList = ''; for (var i = 0; i < forms.length; i++) { var form = forms[i]; var formId = form.id; var formAction = form.action; var formMethod = form.method; var formFields = form.elements; markdownList += '## Form ' + (i + 1) + '\n'; markdownList += 'Form ID: ' + (formId || 'N/A') + '\n'; markdownList += 'Form Action: ' + formAction + '\n'; markdownList += 'Form Method: ' + formMethod + '\n\n'; for (var j = 0; j < formFields.length; j++) { var field = formFields[j]; var fieldType = field.type; var fieldName = field.name; var fieldId = field.id; markdownList += '- '; if (fieldType === 'radio' || fieldType === 'checkbox') { markdownList += '[' + fieldType + '] '; } markdownList += fieldName || fieldId || 'Unnamed Field'; if (field.required) { markdownList += ' (required)'; } var labelElement = field.labels && field.labels[0]; if (labelElement) { var labelText = labelElement.textContent.trim(); if (labelText !== '') { markdownList += ' - ' + labelText; } } markdownList += '\n'; markdownList += ' - Field Type: ' + fieldType + '\n'; markdownList += ' - Field Name: ' + (fieldName || 'N/A') + '\n'; markdownList += ' - Field ID: ' + (fieldId || 'N/A') + '\n'; if (fieldType === 'select-one' || fieldType === 'select-multiple') { var options = field.options; markdownList += ' - Options:\n'; for (var k = 0; k < options.length; k++) { var option = options[k]; markdownList += ' - Value: ' + option.value + ', Text: ' + option.text + '\n'; } } if (fieldType === 'submit') { markdownList += ' - Submit Button Value: ' + field.value + '\n'; } markdownList += '\n'; } markdownList += '\n'; } if (markdownList === '') { markdownList = 'No forms found on the page.'; } var newTab = window.open('', '_blank'); newTab.document.open(); newTab.document.write('<pre>' + markdownList + '</pre>'); newTab.document.close(); })();
+```
+
+[GetForms](javascript:(function() { var forms = document.getElementsByTagName('form'); var markdownList = ''; for (var i = 0; i < forms.length; i++) { var form = forms[i]; var formId = form.id; var formAction = form.action; var formMethod = form.method; var formFields = form.elements; markdownList += '## Form ' + (i + 1) + '\n'; markdownList += 'Form ID: ' + (formId || 'N/A') + '\n'; markdownList += 'Form Action: ' + formAction + '\n'; markdownList += 'Form Method: ' + formMethod + '\n\n'; for (var j = 0; j < formFields.length; j++) { var field = formFields[j]; var fieldType = field.type; var fieldName = field.name; var fieldId = field.id; markdownList += '- '; if (fieldType === 'radio' || fieldType === 'checkbox') { markdownList += '[' + fieldType + '] '; } markdownList += fieldName || fieldId || 'Unnamed Field'; if (field.required) { markdownList += ' (required)'; } var labelElement = field.labels && field.labels[0]; if (labelElement) { var labelText = labelElement.textContent.trim(); if (labelText !== '') { markdownList += ' - ' + labelText; } } markdownList += '\n'; markdownList += ' - Field Type: ' + fieldType + '\n'; markdownList += ' - Field Name: ' + (fieldName || 'N/A') + '\n'; markdownList += ' - Field ID: ' + (fieldId || 'N/A') + '\n'; if (fieldType === 'select-one' || fieldType === 'select-multiple') { var options = field.options; markdownList += ' - Options:\n'; for (var k = 0; k < options.length; k++) { var option = options[k]; markdownList += ' - Value: ' + option.value + ', Text: ' + option.text + '\n'; } } if (fieldType === 'submit') { markdownList += ' - Submit Button Value: ' + field.value + '\n'; } markdownList += '\n'; } markdownList += '\n'; } if (markdownList === '') { markdownList = 'No forms found on the page.'; } var newTab = window.open('', '_blank'); newTab.document.open(); newTab.document.write('<pre>' + markdownList + '</pre>'); newTab.document.close(); })();)
